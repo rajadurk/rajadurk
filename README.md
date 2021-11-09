@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajadurk
+- 👋 Hi, I’m @rajadurk || Kumaran Rajadurai
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning from The Odin Project  
 - 💞️ I’m looking to collaborate on: Nothing yet, but hopefully soon
